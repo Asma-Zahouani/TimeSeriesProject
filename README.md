@@ -15,12 +15,23 @@ Project
   * Checking The Null Values
   * Checking Duplicated Values
   * Checking The Types Of Data
-* Exploring And Analysing The DataFrame
-#In which year and city did the Netherlands win the highest number of medals in their history?
-* Visualizing
-#Visualizing the number of players send by the country on each event vs the number of medals they recieve.
-#visualizing first, second and third world countries and their respective performances in Olympics over these years.
-* Conclusion
+* Analysis and transforms
+  * Time series decomposition
+    * Level
+    * Trend
+    * Seasonality
+    * Noise
+  * Stationarity
+    * AC and PAC plots
+    * Rolling mean and std
+    * Dickey-Fuller test
+  * Making our time series stationary
+    * Difference transform
+    * Log scale
+    * Smoothing
+    * Moving average
+* Forcasting with MLP
+
   
 
 ## :file_folder: dataset
@@ -41,9 +52,9 @@ information since :date: 1970s :
 ## Includes
 * Data understanding
 * Data preprocessing
-* Analyse
-  * Statistics
-  * Visualisation
+* Analysis
+  * Transforms
+  * Forcasting with MLP
 * Conclusion
 
 
