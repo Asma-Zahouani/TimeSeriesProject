@@ -1,6 +1,6 @@
 # Time Series Analysis
 
-DA Project
+Project
 [![Binder](https://mybinder.org/v2/gh/Asma-Zahouani/TimeSeriesProject/master?labpath=index.ipynb)
 
 - In mathematics, a time series is a series of data points indexed in time order. Most commonly, a time series is a sequence taken at successive equally spaced points in time. Thus it is a sequence of discrete-time data. Wikipedia
