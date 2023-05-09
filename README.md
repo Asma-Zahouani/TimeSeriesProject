@@ -1,6 +1,6 @@
 # Time Series Analysis
 
-DA Project
+Project
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Asma-Zahouani/TimeSeriesProject/master?labpath=index.ipynb
 )
 
