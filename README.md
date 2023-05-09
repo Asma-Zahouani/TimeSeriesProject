@@ -34,26 +34,6 @@ information since :date: 1970s :
 |  3 | 1970-10-01 00:00:00 |    36.2 |
 |  4 | 1971-01-01 00:00:00 |    37.4 |
 
-## :closed_book: Data Dictionary
-
-|Column   |Explanation                   |
-|:-------:|:----------------------------:|
-|id       |Unique number for each athlete |
-|name     |Athlete's name                 |
-|sex      |M or F                         |
-|age      |Age of the athlete                        |
-|height   |In centimeters                 |
-|weight   |In kilograms                   |
-|team     |Team name                      |
-|noc      |National Olympic Committee 3   |
-|games    |Year and season                |
-|year     |Integer                        |
-|season   |Summer or Winter               |
-|city     |Host city                      |
-|sport    |Sport                          |
-|event    |Event                          |
-|medal    |Gold, Silver, Bronze, or NA    |
-
 
 
 ## Includes
@@ -65,12 +45,7 @@ information since :date: 1970s :
 * Conclusion
 
 
-
-
-
-
 <img src="images/MLP.png"
-     alt="Markdown Monster icon"
      style=" width:fit-content !important;margin-left:32% !important;" />
 
 
