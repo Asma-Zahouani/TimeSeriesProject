@@ -8,7 +8,7 @@ Project
 
 - Time series analysis is a specific way of analyzing a sequence of data points collected over an interval of time. In time series analysis, analysts record data points at consistent intervals over a set period of time rather than just recording the data points intermittently or randomly.
 
-## :tasks: This is a mini project with the following tasks:
+## :clipboard: This is a mini project with the following tasks:
 * Importing necessary packages
 * Extracting valuable information from the dataset
   * Checking The Shape of The Dataframe
