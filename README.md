@@ -45,7 +45,6 @@ information since :date: 1970s :
 * Conclusion
 
 
-<img src="images/MLP.png"
-     style=" width:fit-content !important;margin-left:32% !important;" />
+<img src="images/MLP.png" />
 
 
