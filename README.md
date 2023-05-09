@@ -36,6 +36,7 @@ information since :date: 1970s :
 
 
 
+
 ## Includes
 * Data understanding
 * Data preprocessing
@@ -45,6 +46,12 @@ information since :date: 1970s :
 * Conclusion
 
 
-<img src="images/MLP.png" />
+
+
+
+
+<img src="images/MLP.png"
+     alt="Markdown Monster icon"
+     style=" width:fit-content !important;margin-left:32% !important;" />
 
 
