@@ -24,7 +24,7 @@ Project
   * Stationarity
     * AC and PAC plots
     * Rolling mean and std
-    * Dickey-Fuller test
+    * Dickey-Fuller test (ADF)
   * Making our time series stationary
     * Difference transform
     * Log scale
